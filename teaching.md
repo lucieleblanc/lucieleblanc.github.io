@@ -48,5 +48,5 @@ I served as Head TA for COMS 3157 in semesters marked with an asterisk (*) above
 
 My pedagogical approach centers around finding consistent, shared spoken and visual language to express new concepts, then developing fluency in that language the same way we develop fluency in world languages. I spend significant time developing, refining, and practicing instructional language.
 
-I'm interested in working on the usability of programming languages, tools and frameworks to make them more intuitive, usable and understandable to a diverse audience.
+I'm interested in working on programming languages, tools and frameworks to make them more intuitive, usable and understandable to a diverse audience.
 
